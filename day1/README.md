@@ -107,3 +107,6 @@ Collecting pytz>=2020.1 (from pandas)
  pip install scikit-learn  numpy 
 ```
 
+### some consideration of data to train any ML algo
+
+<img src="pd2.png">
