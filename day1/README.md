@@ -104,6 +104,6 @@ Collecting pytz>=2020.1 (from pandas)
 ### dealing with many ML problem python has Scikit-learn 
 
 ```
- pip install scikit-learn 
+ pip install scikit-learn  numpy 
 ```
 
