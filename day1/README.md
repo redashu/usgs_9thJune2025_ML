@@ -70,5 +70,29 @@ ubuntu@ip-172-31-85-84:~$ source ashu-workspace/bin/activate
 
 (ashu-workspace) ubuntu@ip-172-31-85-84:~$ 
 
+```
+
+## as we know the purpose of ML is to train algo 
+
+<img src="ml4.png">
+
+### Understanding any ML model training process 
+
+<img src="ml5.png">
+
+### installing pandas in your personal python VENV 
+
+```
+buntu@ip-172-31-85-84:~$ source ashu-workspace/bin/activate
+(ashu-workspace) ubuntu@ip-172-31-85-84:~$ 
+(ashu-workspace) ubuntu@ip-172-31-85-84:~$ pip install pandas 
+Collecting pandas
+  Using cached pandas-2.3.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (91 kB)
+Collecting numpy>=1.26.0 (from pandas)
+  Using cached numpy-2.3.0-cp312-cp312-manylinux_2_28_x86_64.whl.metadata (62 kB)
+Collecting python-dateutil>=2.8.2 (from pandas)
+  Using cached python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting pytz>=2020.1 (from pandas)
+  Using cached pytz-2025.2-py2.py3-none-any.whl.metadata 
 
 ```
