@@ -96,3 +96,14 @@ Collecting pytz>=2020.1 (from pandas)
   Using cached pytz-2025.2-py2.py3-none-any.whl.metadata 
 
 ```
+
+## Pandas data read options
+
+<img src="pd1.png">
+
+### dealing with many ML problem python has Scikit-learn 
+
+```
+ pip install scikit-learn 
+```
+
