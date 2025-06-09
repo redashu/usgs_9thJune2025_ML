@@ -9,3 +9,11 @@
 ### Basic about Deep learning 
 
 <img src="dl1.png">
+
+## getting started with Machine learning 
+
+<img src="ml2.png">
+
+### More info about Machine learning category 
+
+<img src="ml3.png">
