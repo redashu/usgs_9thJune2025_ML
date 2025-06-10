@@ -90,4 +90,16 @@ KeyboardInterrupt
 pip install matplotlib 
 ```
 
+### AI to GENAI 
+
+<img src="genai1.png">
+
+### AI models category 
+
+
+<img src="genai2.png">
+
+## info about LLM & Foundational Model in GENAI
+
+<img src="genai3.png">
 
