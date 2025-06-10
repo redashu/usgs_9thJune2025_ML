@@ -103,3 +103,17 @@ pip install matplotlib
 
 <img src="genai3.png">
 
+### Some basic Idea about Interacting with LLM --(GPT)
+
+<img src="genai4.png">
+
+## To interact with GPT LLM -- using openai 
+
+### installing python openai library 
+
+```
+pip install openai
+pip install seaborn 
+```
+
+
