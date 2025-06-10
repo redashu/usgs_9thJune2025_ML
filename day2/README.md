@@ -6,10 +6,12 @@
 
 <img src="rev2.png">
 
-### checking things in remove ubuntu machine 
+## checking things in remove ubuntu machine 
 
+### checking os details 
 ```
 buntu@ip-172-31-85-84:~$ cat /etc/os-release 
+
 PRETTY_NAME="Ubuntu 24.04.2 LTS"
 NAME="Ubuntu"
 VERSION_ID="24.04"
@@ -23,7 +25,10 @@ BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
 PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
 UBUNTU_CODENAME=noble
 LOGO=ubuntu-logo
+```
+### checking python VENV names 
 
+```
 
 ubuntu@ip-172-31-85-84:~$ ls
 Untitled.ipynb   barker-workspace  jdelaney-workspace    jupyterhub_config.py.back  nohup.out          rocelia-workspace
@@ -32,7 +37,10 @@ anders-working   cmj_workspace     jupyterhub-proxy.pid  lauren-workspace       
 ashu-workspace   dblair-workspace  jupyterhub.sqlite     marlo-workspace            rebecca-workspace  usgs-ml
 ashu.ipynb       dwief             jupyterhub_config.py  mk-workspace               riley-workspace    xandra-workspace
 
+```
+### loading python VENV and checking libs 
 
+```
 ubuntu@ip-172-31-85-84:~$ 
 ubuntu@ip-172-31-85-84:~$ source ashu-workspace/bin/activate
 (ashu-workspace) ubuntu@ip-172-31-85-84:~$ pip  install numpy pandas scikit-learn 
@@ -48,3 +56,5 @@ Requirement already satisfied: threadpoolctl>=3.1.0 in ./ashu-workspace/lib/pyth
 Requirement already satisfied: six>=1.5 in ./ashu-workspace/lib/python3.12/site-packages (from python-dateutil>=2.8.2->pandas) (1.17.0)
 
 ```
+
+
