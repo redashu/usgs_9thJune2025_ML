@@ -57,4 +57,28 @@ Requirement already satisfied: six>=1.5 in ./ashu-workspace/lib/python3.12/site-
 
 ```
 
+### Decision Tree Classifier understanding -- concepts
+
+<img src="dec1.png">
+
+### checking some classification algo in python CLI 
+
+```
+ashu-workspace) ubuntu@ip-172-31-85-84:~$ python
+Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 
+>>> from sklearn.tree import DecisionTreeClassifier 
+>>> help(DecisionTreeClassifier)
+
+>>> help(DecisionTreeClassifier)
+
+>>> from sklearn.svm import  SVC 
+>>> help(SVC) 
+KeyboardInterrupt
+>>> 
+
+```
+
+
 
