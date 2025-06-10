@@ -80,5 +80,14 @@ KeyboardInterrupt
 
 ```
 
+### to DO model eval we have some options given below 
+
+<img src="eval1.png">
+
+### to see decisionTree plot we gonna use matplotlib 
+
+```
+pip install matplotlib 
+```
 
 
