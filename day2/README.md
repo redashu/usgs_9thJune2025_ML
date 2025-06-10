@@ -117,3 +117,10 @@ pip install seaborn
 ```
 
 
+## Regression machine ALGo's
+
+<img src="regr1.png">
+
+### Regression Model Eval methods 
+
+<img src="regr2.png">
