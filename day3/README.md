@@ -154,3 +154,37 @@ Input Layer         Hidden Layer         Output Layer
 ```
 
 Each arrow represents a weight, each `( )` is a neuron, and output is computed through activation functions.
+
+## ANN in action 
+
+### python Modules / frameworks for creating ANN 
+
+<img src="ann2.png">
+
+### installing tensorflow and keras 
+
+```
+pip install tensorflow keras
+
+```
+### Nuerons in layers 
+
+<img src="layer1.png">
+
+### ANN compile options 
+
+<img src="layer2.png">
+
+### LLM's are using specific kind of ANN -- Transformers 
+
+<img src="layer3.png">
+
+### More info about LLM 
+
+<img src="layer4.png">
+
+### fine tuning openai GPT model 
+
+<img src="layer5.png">
+
+
