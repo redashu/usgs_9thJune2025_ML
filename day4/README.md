@@ -28,3 +28,12 @@
 ### 1:  COnvert data into Jsonl format 
 
 <img src="d6.png">
+
+### LLM for conversation purpose using type of INputs
+
+<img src="d7.png">
+
+### NLTK  in LLM role understanding 
+
+<img src="d8.png">
+
