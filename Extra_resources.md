@@ -6,3 +6,7 @@
 
 [click](https://platform.openai.com/docs/overview)
 
+### Fine tuning of GPT for superverised purpose link 
+
+[click](https://platform.openai.com/docs/guides/supervised-fine-tuning)
+
